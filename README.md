@@ -30,4 +30,4 @@ doublehop.exe -u "acme.local\pwneduser" -p "MySecurePass" -l wks01.acme.local -j
 doublehop.exe -u "acme.local\pwneduser" -p "MySecurePass" -l wks01.acme.local -m "server1.acme.local,server2.amce.local" -c ipconfig
 ```
 
-### Inspired by: ([Slayerlabs - Kerberos Double-Hop Workarounds]([linkurl](https://posts.slayerlabs.com/double-hop/))). 
+### Inspired by: [Slayerlabs - Kerberos Double-Hop Workarounds](https://posts.slayerlabs.com/double-hop/ 'Kerberos Double-Hop Workarounds')
