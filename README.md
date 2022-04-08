@@ -18,6 +18,7 @@ doublehop Usage():
   -p string
         Password for user
   -u string
+        FORMAT: 'DOMAIN\USER' we are authenticating with.
 ```
 ***
 
