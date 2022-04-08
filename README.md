@@ -9,15 +9,15 @@
 doublehop Usage():
     -c string
         Command we are executing.
-  -j string
+    -j string
         Host we are executing command against.
-  -l string
+    -l string
         Inital host we are jumping from.
-  -m string
+    -m string
         Add hosts comma seperated. FORMAT: 'host1,host2'
-  -p string
+    -p string
         Password for user
-  -u string
+    -u string
         FORMAT: 'DOMAIN\USER' we are authenticating with.
 ```
 ***
