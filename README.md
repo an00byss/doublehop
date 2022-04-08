@@ -1,7 +1,7 @@
 # Doublehop
 >This tool aims to assist in using PowerShell Remoting / WinRM to execute PowerShell commands on remote hosts through WinRM double hop technique. 
 > 
-> This tool assumes you have internal network access and with access to a CLI.
+> This tool assumes you have internal network and CLI access.
 
 
 ## Usage
